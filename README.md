@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-[Download Demo APK](/asset/apk/app-release.apk)
+[Download Demo APK](/assets/apk/app-release.apk)
 ------Use Bloc
 
 
